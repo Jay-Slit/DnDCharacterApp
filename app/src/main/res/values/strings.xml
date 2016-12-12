@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">5eCharacterSheet</string>
+
+    <string name="newCharBtn">Create New Character</string>
+    <string name="transferCharBtn">Create Transfer Character</string> <!-- TODO: Come up with a better name -->
+    <string name="newPartyBtn">Form New Party</string>
+
+    <!-- Dialog Messages -->
+    <string name="dialog_createCharacter_charInfo"></string>
+    <string name="dialog_ok">OK</string>
+</resources>
